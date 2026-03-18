@@ -1,0 +1,14 @@
+{
+  "wechat": {
+    "app_id": "your-wechat-app-id",
+    "app_secret": "your-wechat-app-secret",
+    "site_url": "https://example.com",
+    "author": "Your Name",
+    "thumb_image_path": "public/wechat-thumb.jpg",
+    "open_comment": 0,
+    "fans_can_comment": 0,
+    "content_root": "../your-astro-site/src/content/blog",
+    "public_root": "../your-astro-site/public",
+    "node_modules_root": "."
+  }
+}

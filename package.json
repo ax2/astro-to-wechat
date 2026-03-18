@@ -1,0 +1,26 @@
+{
+  "name": "astro-to-wechat",
+  "version": "1.0.0",
+  "description": "Sync published Astro articles to the WeChat draft box.",
+  "scripts": {
+    "sync:wechat": "python3 scripts/sync_wechat_article.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ax2/astro-to-wechat.git"
+  },
+  "keywords": [
+    "astro",
+    "wechat",
+    "weixin",
+    "automation"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ax2/astro-to-wechat/issues"
+  },
+  "homepage": "https://github.com/ax2/astro-to-wechat#readme",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

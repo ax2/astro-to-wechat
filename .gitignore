@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local config and generated outputs
+config/wechat.local.json
+tmp/
+node_modules/
